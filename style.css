@@ -53,6 +53,10 @@ body {
 
 /*//////////////////////////////////////////////////////*/
 
+a {
+  text-decoration: none;
+}
+
 
 .container {
 
@@ -156,22 +160,6 @@ body {
   display: inline-block;
   float: left;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .box
 {
