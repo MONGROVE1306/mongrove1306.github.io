@@ -57,12 +57,11 @@ a {
   text-decoration: none;
 }
 
-
 .container {
 
   text-align: center;
 }
-.container {
+.containerzwei {
 
   margin-top: 350px;
   text-align: center;
@@ -131,7 +130,7 @@ a {
   margin: 8px 0px 0px 10px;
   height: 22px;
   width: 22px;
-  background-image: url(https://www.steamid.co.uk/images/headshot.png)
+  background-image: url(http://csgo-mates.com/img/headshot-black.png)
   background-size: cover;
   float: left;
 }
@@ -160,6 +159,22 @@ a {
   display: inline-block;
   float: left;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .box
 {
